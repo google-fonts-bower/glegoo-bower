@@ -1,0 +1,17 @@
+{
+    "name": "glegoo-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/glegoo-bower.git"
+    },
+    "description": "Glegoo font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
